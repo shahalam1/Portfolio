@@ -1,0 +1,26 @@
+.ulploadFile{
+	
+	width:100%;
+	height:auto;
+	margin-top:10px;
+}
+#uploadBtn{
+	display:none;
+}
+.uploadbtnlabel{
+	
+	width:auto;
+	height:auto;
+	padding:10px 15px;
+	background:#202020;
+	border:1px solid #202020;
+	color:#fff;
+	coursor:pointer;
+	transition:0.40s;
+}
+.uploadbtnlabel:hover{
+	
+	background:none;
+	color:#202020;
+	transition:0.40s;
+}
